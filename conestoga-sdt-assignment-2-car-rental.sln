@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conestoga-sdt-assignment-2-car-rental", "conestoga-sdt-assignment-2-car-rental.csproj", "{7272BC6B-D6DF-4A5B-A695-664723F0C998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7272BC6B-D6DF-4A5B-A695-664723F0C998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7272BC6B-D6DF-4A5B-A695-664723F0C998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7272BC6B-D6DF-4A5B-A695-664723F0C998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7272BC6B-D6DF-4A5B-A695-664723F0C998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60827112-0D8A-4DF1-85B2-32F7D6765726}
+	EndGlobalSection
+EndGlobal
