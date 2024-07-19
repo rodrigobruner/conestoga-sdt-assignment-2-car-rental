@@ -1,1 +1,2 @@
-# conestoga-sdt-assignment-2-car-rental-
+# Conestoga Software Development Technics
+## Assignment 2 Car Rental - Console
